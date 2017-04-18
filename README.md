@@ -1,2 +1,3 @@
-# lessons-on-oop-design
-Practical Object Oriented Design
+# Books
+1. Practical Object Oriented Design
+2. Hooked - Nir Eyal
